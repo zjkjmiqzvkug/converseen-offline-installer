@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Image+Converter-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Batch+Image+Converter-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Converseen Free Installer** — Converseen is a free, cross-platform batch image converter and resizer for Windows, Linux, and macOS. Works without internet access, no account required. Full offline installation.
+**💻 Converseen Free Installer** — Converseen is a free, open-source batch image converter and resizer for Windows and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Converseen
 
-Converseen is a free, cross-platform batch image converter and resizer for Windows, Linux, and macOS. It converts between 100+ image formats, supports batch resize and rotation, and provides a simple interface powered by the ImageMagick library.
+Converseen is a free, open-source batch image converter and resizer for Windows and Linux. Convert between dozens of image formats, resize, rotate, flip, and apply simple filters to entire folders of images in one operation. Converseen's straightforward interface makes batch image conversion accessible without scripting or command-line knowledge.
 
 ---
 
 ## ❌ Problem: Converseen is hard to access
 
-- **ImageMagick Backend** — Quality and format support dependent on ImageMagick capabilities
-- **Basic Interface** — Functional but minimal; fewer options than commercial batch tools
-- **Limited Editing** — Conversion and resize only; no color correction or adjustment tools
-- **macOS Instability** — macOS version sometimes less stable than Windows or Linux builds
+- **Limited Platform** — Windows and Linux; no macOS version
+- **Feature Scope** — Basic conversion and resizing; no advanced editing capabilities
+- **Advanced Operations** — Complex per-image adjustments not supported in batch mode
+- **Performance** — Very large batch operations can be slow
 
 ---
 
@@ -121,7 +121,7 @@ Converseen is a free, cross-platform batch image converter and resizer for Windo
 
 ---
 
-**Converseen Free Installer** — Converseen is a free, cross-platform batch image converter and resizer for Windows, Linux, and macOS. Install without internet connection today!
+**Converseen Free Installer** — Converseen is a free, open-source batch image converter and resizer for Windows and Linux. Install without internet connection today!
 
 <div align="center">
 
